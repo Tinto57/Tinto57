@@ -40,17 +40,17 @@ Web Applications • LLMs • Machine Learning • Systems Programming • UI Pr
 **Single dashboard centralizing data from multiple third-party APIs.**
 * API integration, aggregation and visualization in one interface.
 
-#### [CLI Chatbot on a Local LLM]
+#### CLI Chatbot on a Local LLM
 **Command-line assistant running on a local Ollama model.** *(ongoing)*
 * Streamed responses, in-session history as context, clean error handling.
 * Built with Python and Ollama.
 
-#### [Systems & Graphics Programming]
+#### Systems & Graphics Programming
 **Low-level projects in C with Ncurses and CSFML.**
 * Full TCSH-based shell and a reimplementation of the `top` command.
 * Air traffic control simulation and a Duck Hunt–style game.
 
-#### [Machine Learning]
+#### Machine Learning
 **Data preparation, model training and evaluation in Python.**
 
 ---
