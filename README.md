@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL](https://www.linkedin.com/in/nathan-maillard-808768242/?isSelfProfile=true">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nathan-maillard-808768242/?isSelfProfile=true">LinkedIn</a> •
   <a href="mailto:nathan.maillard@epitech.eu">Email</a>
 </p>
 
