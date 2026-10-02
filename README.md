@@ -73,5 +73,5 @@ French (native) • English (800/990 TEPITECH, TOEIC equivalent)
 ### Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON-PSEUDO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinto57&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
